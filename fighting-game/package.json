@@ -1,0 +1,19 @@
+{
+  "name": "crossed-fates",
+  "version": "0.1.0",
+  "description": "Crossed Fates: Tournament of Champions - original 2D fighting game vertical slice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  }
+}
